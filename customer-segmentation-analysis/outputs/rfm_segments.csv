@@ -1,0 +1,1324 @@
+CustomerID,Channel,Recency,Frequency,Monetary,Segment
+C100000,Paid Ads,666,3,2573.53,Champions
+C100005,Email,55,3,603.46,Loyal Regulars
+C100006,Paid Ads,420,6,6141.7,Champions
+C100008,Organic Search,435,2,649.04,At Risk
+C100009,Organic Search,25,3,2675.1299999999997,Loyal Regulars
+C100010,Referral,421,1,182.49,Hibernating / Lost
+C100011,Referral,99,3,946.66,Champions
+C100012,Social,40,2,920.51,Loyal Regulars
+C100013,Social,71,3,921.96,Loyal Regulars
+C100015,Social,32,4,1646.9,Loyal Regulars
+C100016,Organic Search,390,1,793.1999999999999,At Risk
+C100017,Organic Search,616,2,922.89,At Risk
+C100018,Organic Search,99,4,3402.94,Champions
+C100019,Paid Ads,67,1,375.45,Hibernating / Lost
+C100020,Organic Search,294,2,735.06,At Risk
+C100021,Referral,502,1,21.72,Hibernating / Lost
+C100022,Email,383,2,1840.35,At Risk
+C100024,Organic Search,202,2,585.55,At Risk
+C100025,Organic Search,295,2,2254.08,At Risk
+C100027,Referral,62,2,1200.44,Loyal Regulars
+C100029,Email,391,2,357.03,At Risk
+C100030,Organic Search,157,4,1942.1060000000002,Champions
+C100032,Paid Ads,4,3,422.5,Loyal Regulars
+C100034,Referral,19,2,915.6400000000001,Loyal Regulars
+C100035,Organic Search,4,2,851.9,Loyal Regulars
+C100038,Referral,272,6,4148.008,Champions
+C100039,Organic Search,235,1,792.73,At Risk
+C100041,Referral,70,4,3960.55,Champions
+C100042,Organic Search,267,2,491.68,At Risk
+C100043,Paid Ads,291,5,1550.7099999999998,Champions
+C100044,Paid Ads,18,6,1589.3799999999999,Loyal Regulars
+C100045,Organic Search,148,1,2824.8,At Risk
+C100046,Email,199,3,3205.05,Champions
+C100048,Referral,47,3,947.59,Loyal Regulars
+C100049,Paid Ads,78,4,1373.87,Champions
+C100051,Organic Search,634,1,46.78,Hibernating / Lost
+C100052,Organic Search,386,2,6881.9,Champions
+C100053,Organic Search,34,4,4025.7,Loyal Regulars
+C100054,Social,400,2,905.01,At Risk
+C100055,Referral,197,5,1394.29,Champions
+C100056,Referral,10,6,8618.79,Loyal Regulars
+C100057,Paid Ads,411,4,1682.1299999999999,Champions
+C100060,Paid Ads,132,2,993.2092,At Risk
+C100062,Organic Search,66,1,268.32,Hibernating / Lost
+C100063,Organic Search,65,2,2016.51,Loyal Regulars
+C100064,Social,290,3,1494.5,Champions
+C100066,Social,8,1,512.01,Loyal Regulars
+C100067,Organic Search,80,3,2387.59,Champions
+C100071,Organic Search,586,1,2268.9,At Risk
+C100072,Organic Search,373,1,343.61,Hibernating / Lost
+C100073,Social,33,4,1293.53,Loyal Regulars
+C100075,Email,419,1,360.14,At Risk
+C100076,Paid Ads,439,1,431.04,At Risk
+C100077,Paid Ads,524,2,2041.26,At Risk
+C100079,Organic Search,251,1,1448.78,At Risk
+C100080,Social,69,2,3107.59,Loyal Regulars
+C100081,Referral,129,4,2887.29,Champions
+C100082,Email,493,2,722.54,At Risk
+C100083,Paid Ads,46,2,475.15999999999997,Loyal Regulars
+C100085,Social,95,3,2173.39,Champions
+C100087,Organic Search,402,2,1274.46,At Risk
+C100088,Paid Ads,154,3,2812.42,Champions
+C100090,Email,103,7,2857.14,Champions
+C100091,Referral,9,3,857.45,Loyal Regulars
+C100093,Organic Search,501,1,260.36,Hibernating / Lost
+C100095,Paid Ads,260,2,1375.65,At Risk
+C100096,Email,280,2,612.84,At Risk
+C100097,Organic Search,69,3,3472.8399999999997,Champions
+C100099,Organic Search,566,1,564.61,At Risk
+C100101,Paid Ads,394,5,1278.42,Champions
+C100102,Organic Search,63,2,1240.9099999999999,Loyal Regulars
+C100103,Organic Search,251,3,830.09,Champions
+C100104,Email,20,4,3139.01,Loyal Regulars
+C100106,Social,255,1,32.64,Hibernating / Lost
+C100107,Organic Search,145,1,198.04000000000002,Hibernating / Lost
+C100108,Email,394,1,1160.5500000000002,At Risk
+C100109,Paid Ads,145,1,945.89,At Risk
+C100110,Email,401,3,1029.48,Champions
+C100111,Paid Ads,25,5,2918.24,Loyal Regulars
+C100114,Paid Ads,343,3,1542.0199999999998,Champions
+C100115,Organic Search,232,1,790.0999999999999,At Risk
+C100116,Email,413,4,1297.68,Champions
+C100117,Referral,203,4,3670.02,Champions
+C100118,Organic Search,462,2,1966.08,At Risk
+C100119,Paid Ads,184,1,420.6,At Risk
+C100120,Referral,43,3,353.38,Loyal Regulars
+C100121,Email,22,5,2123.5,Loyal Regulars
+C100122,Social,308,1,298.4,Hibernating / Lost
+C100123,Paid Ads,262,2,411.5,At Risk
+C100124,Email,150,1,32.05,Hibernating / Lost
+C100125,Organic Search,374,1,58.150000000000006,Hibernating / Lost
+C100128,Email,100,2,731.26,At Risk
+C100131,Email,1,2,3329.9,Loyal Regulars
+C100132,Paid Ads,390,5,2220.93,Champions
+C100133,Social,13,4,2563.77,Loyal Regulars
+C100135,Email,219,4,4285.93,Champions
+C100136,Paid Ads,258,1,239.4,Hibernating / Lost
+C100138,Paid Ads,499,2,325.21999999999997,At Risk
+C100140,Organic Search,150,1,268.88,Hibernating / Lost
+C100141,Email,525,2,956.6800000000001,At Risk
+C100142,Email,282,5,6410.796,Champions
+C100143,Email,404,3,2064.77,Champions
+C100144,Organic Search,24,2,423.32,Loyal Regulars
+C100145,Paid Ads,170,1,830.14,At Risk
+C100146,Organic Search,224,2,502.58,At Risk
+C100148,Referral,32,2,474.54,Loyal Regulars
+C100150,Email,164,1,283.3,Hibernating / Lost
+C100151,Organic Search,498,2,1327.61,At Risk
+C100152,Organic Search,56,1,1194.71,At Risk
+C100154,Organic Search,344,2,1137.1922,At Risk
+C100155,Email,294,1,247.09,Hibernating / Lost
+C100156,Social,388,2,427.69,At Risk
+C100157,Organic Search,371,1,103.42,Hibernating / Lost
+C100159,Email,43,4,3136.77,Loyal Regulars
+C100160,Social,111,3,568.34,Champions
+C100161,Email,234,4,1549.8400000000001,Champions
+C100162,Organic Search,406,1,1047.65,At Risk
+C100163,Email,170,1,362.29999999999995,Hibernating / Lost
+C100167,Email,460,4,2088.2735,Champions
+C100168,Organic Search,106,4,914.5999999999999,Champions
+C100169,Paid Ads,185,4,1947.02,Champions
+C100170,Referral,397,2,1960.79,At Risk
+C100171,Email,446,2,3354.72,At Risk
+C100172,Paid Ads,39,2,1331.6999999999998,Loyal Regulars
+C100173,Social,35,3,1734.5192,Loyal Regulars
+C100174,Referral,314,1,72.30000000000001,Hibernating / Lost
+C100176,Paid Ads,124,3,1314.94,Champions
+C100178,Email,158,2,747.12,At Risk
+C100179,Paid Ads,367,1,149.68,Hibernating / Lost
+C100180,Organic Search,99,3,540.24,Champions
+C100181,Social,441,2,320.7,At Risk
+C100182,Social,412,3,3158.68,Champions
+C100183,Referral,124,3,775.259,Champions
+C100185,Email,375,3,523.06,At Risk
+C100186,Referral,99,2,981.21,At Risk
+C100188,Paid Ads,471,1,179.95000000000002,Hibernating / Lost
+C100189,Paid Ads,184,2,721.0,At Risk
+C100190,Organic Search,40,3,4714.67,Loyal Regulars
+C100191,Email,158,2,982.81,At Risk
+C100194,Paid Ads,92,3,2077.96,Champions
+C100195,Paid Ads,245,1,192.59,Hibernating / Lost
+C100196,Organic Search,372,6,3052.9300000000003,Champions
+C100197,Referral,48,2,288.08,Loyal Regulars
+C100198,Referral,21,1,634.28,Loyal Regulars
+C100200,Organic Search,383,3,1099.81,Champions
+C100202,Referral,338,2,598.73,At Risk
+C100204,Organic Search,382,2,301.86,At Risk
+C100205,Referral,249,1,1021.02,At Risk
+C100207,Paid Ads,36,3,1083.92,Loyal Regulars
+C100208,Social,6,4,482.1,Loyal Regulars
+C100210,Organic Search,192,2,1666.8,At Risk
+C100211,Paid Ads,217,1,71.61,Hibernating / Lost
+C100212,Email,40,4,4882.36,Loyal Regulars
+C100213,Social,107,5,4417.32,Champions
+C100215,Organic Search,462,1,648.29,At Risk
+C100216,Organic Search,26,2,1868.25,Loyal Regulars
+C100217,Referral,496,3,2097.8199999999997,Champions
+C100218,Organic Search,58,7,4135.54,Champions
+C100219,Referral,110,1,96.9,Hibernating / Lost
+C100220,Email,141,3,1705.36,Champions
+C100221,Organic Search,386,4,854.79,Champions
+C100222,Referral,164,2,414.36,At Risk
+C100223,Organic Search,1,2,6107.0199999999995,Loyal Regulars
+C100224,Paid Ads,227,2,4525.78,Champions
+C100225,Paid Ads,28,4,2728.04,Loyal Regulars
+C100226,Paid Ads,93,2,1873.7800000000002,At Risk
+C100227,Email,38,1,606.5799999999999,At Risk
+C100228,Email,398,1,266.55,Hibernating / Lost
+C100229,Social,588,1,105.58,Hibernating / Lost
+C100230,Social,172,2,1293.15,At Risk
+C100231,Paid Ads,40,2,896.82,Loyal Regulars
+C100232,Organic Search,376,4,3169.7699999999995,Champions
+C100233,Email,23,6,3958.66,Loyal Regulars
+C100234,Social,136,10,4198.71,Champions
+C100235,Organic Search,250,1,662.5899999999999,At Risk
+C100236,Paid Ads,272,1,20.38,Hibernating / Lost
+C100237,Paid Ads,346,1,21.64,Hibernating / Lost
+C100238,Organic Search,305,3,3228.38,Champions
+C100240,Paid Ads,651,1,1044.24,At Risk
+C100241,Referral,34,4,1979.9,Loyal Regulars
+C100242,Referral,280,3,2952.25,Champions
+C100243,Referral,94,1,823.6,At Risk
+C100244,Paid Ads,14,2,662.61,Loyal Regulars
+C100245,Paid Ads,3,5,7674.7699999999995,Loyal Regulars
+C100246,Email,14,5,3613.02,Loyal Regulars
+C100247,Referral,408,1,327.17,Hibernating / Lost
+C100248,Paid Ads,167,1,1779.0,At Risk
+C100250,Organic Search,284,4,727.59,Champions
+C100251,Referral,194,1,563.7,At Risk
+C100252,Organic Search,559,1,65.18,Hibernating / Lost
+C100253,Organic Search,531,1,845.1100000000001,At Risk
+C100255,Organic Search,445,3,4280.62,Champions
+C100256,Organic Search,210,1,240.99,Hibernating / Lost
+C100257,Organic Search,45,5,4538.45,Champions
+C100258,Paid Ads,168,1,1127.82,At Risk
+C100259,Referral,115,1,461.91999999999996,At Risk
+C100260,Organic Search,92,2,1681.12,At Risk
+C100261,Email,202,2,1177.44,At Risk
+C100263,Organic Search,31,1,525.9000000000001,Loyal Regulars
+C100265,Referral,317,4,1772.11,Champions
+C100267,Paid Ads,509,1,322.16999999999996,Hibernating / Lost
+C100268,Referral,24,7,3771.98,Loyal Regulars
+C100269,Organic Search,255,2,517.85,At Risk
+C100271,Email,642,3,763.61,At Risk
+C100274,Paid Ads,460,1,1010.6299999999999,At Risk
+C100275,Referral,268,1,2961.67,At Risk
+C100276,Paid Ads,117,6,2963.89,Champions
+C100278,Organic Search,155,2,2626.91,At Risk
+C100279,Organic Search,566,3,1257.0183,Champions
+C100281,Organic Search,203,4,2123.58,Champions
+C100282,Organic Search,303,1,42.83,Hibernating / Lost
+C100283,Organic Search,157,2,474.65,At Risk
+C100284,Organic Search,372,1,166.43,Hibernating / Lost
+C100285,Referral,27,4,3386.4300000000003,Loyal Regulars
+C100286,Paid Ads,452,1,651.22,At Risk
+C100288,Organic Search,400,1,902.74,At Risk
+C100290,Paid Ads,197,2,959.4,At Risk
+C100292,Referral,46,1,454.42999999999995,At Risk
+C100293,Social,140,1,56.6,Hibernating / Lost
+C100295,Organic Search,308,2,1580.49,At Risk
+C100296,Organic Search,21,6,5323.42,Loyal Regulars
+C100297,Email,53,8,2410.7,Champions
+C100298,Organic Search,191,2,504.29999999999995,At Risk
+C100300,Paid Ads,172,4,2561.4,Champions
+C100301,Paid Ads,207,1,175.34,Hibernating / Lost
+C100302,Referral,17,5,1617.72,Loyal Regulars
+C100303,Email,36,2,660.05,Loyal Regulars
+C100304,Organic Search,385,1,344.36,Hibernating / Lost
+C100305,Organic Search,551,2,3352.5699999999997,At Risk
+C100306,Email,140,5,2030.4799999999998,Champions
+C100307,Paid Ads,6,5,1384.59,Loyal Regulars
+C100308,Organic Search,413,1,477.5,At Risk
+C100310,Referral,164,4,4768.48,Champions
+C100312,Paid Ads,254,2,341.2,At Risk
+C100313,Paid Ads,525,1,1875.6,At Risk
+C100314,Organic Search,339,5,1586.74,Champions
+C100315,Paid Ads,256,1,685.54,At Risk
+C100318,Email,5,4,1408.5700000000002,Loyal Regulars
+C100319,Organic Search,11,2,819.1299999999999,Loyal Regulars
+C100320,Organic Search,37,1,6.32,Hibernating / Lost
+C100321,Organic Search,615,1,284.63,Hibernating / Lost
+C100323,Email,13,2,509.58000000000004,Loyal Regulars
+C100324,Organic Search,7,2,1288.16,Loyal Regulars
+C100325,Referral,563,1,317.65,Hibernating / Lost
+C100326,Paid Ads,211,2,388.11,At Risk
+C100327,Paid Ads,374,2,1298.5700000000002,At Risk
+C100328,Social,603,1,359.25000000000006,At Risk
+C100329,Organic Search,368,1,56.72,Hibernating / Lost
+C100330,Organic Search,175,3,1101.8500000000001,Champions
+C100332,Organic Search,378,4,1859.26,Champions
+C100333,Email,192,2,654.39,At Risk
+C100335,Organic Search,6,5,2760.61,Loyal Regulars
+C100338,Organic Search,295,2,334.35,At Risk
+C100340,Referral,148,1,63.239999999999995,Hibernating / Lost
+C100342,Paid Ads,46,1,234.0,Hibernating / Lost
+C100343,Organic Search,196,1,31.82,Hibernating / Lost
+C100344,Paid Ads,157,1,145.1,Hibernating / Lost
+C100345,Organic Search,543,2,301.65999999999997,At Risk
+C100346,Email,56,1,400.34000000000003,Hibernating / Lost
+C100347,Organic Search,80,2,614.1899999999999,At Risk
+C100348,Referral,131,4,1738.1100000000001,Champions
+C100349,Social,391,4,2198.08,Champions
+C100350,Organic Search,198,4,2611.62,Champions
+C100351,Organic Search,264,6,2093.44,Champions
+C100352,Organic Search,163,5,4965.85,Champions
+C100355,Referral,6,4,3083.46,Loyal Regulars
+C100356,Referral,401,3,736.45,At Risk
+C100357,Referral,4,4,2081.55,Loyal Regulars
+C100358,Paid Ads,652,2,2113.9700000000003,At Risk
+C100360,Organic Search,123,3,825.2199999999999,Champions
+C100361,Paid Ads,166,1,430.41,At Risk
+C100365,Referral,329,1,36.24,Hibernating / Lost
+C100366,Organic Search,286,3,1653.56,Champions
+C100367,Social,72,1,120.12,Hibernating / Lost
+C100368,Paid Ads,440,1,33.25,Hibernating / Lost
+C100369,Paid Ads,179,1,749.8299999999999,At Risk
+C100371,Paid Ads,20,2,2778.2000000000003,Loyal Regulars
+C100372,Paid Ads,410,3,880.9,Champions
+C100373,Paid Ads,374,1,61.04,Hibernating / Lost
+C100374,Organic Search,1,2,604.14,Loyal Regulars
+C100375,Paid Ads,403,8,4667.42,Champions
+C100376,Organic Search,296,1,35.34,Hibernating / Lost
+C100377,Organic Search,185,2,3716.95,Champions
+C100379,Paid Ads,513,2,1956.22,At Risk
+C100381,Paid Ads,69,1,86.52000000000001,Hibernating / Lost
+C100382,Paid Ads,71,2,666.08,At Risk
+C100383,Email,125,2,1236.42,At Risk
+C100384,Social,490,3,929.32,Champions
+C100385,Social,332,10,3989.24,Champions
+C100386,Paid Ads,424,1,542.9100000000001,At Risk
+C100387,Paid Ads,128,1,558.4,At Risk
+C100389,Paid Ads,203,7,4685.73,Champions
+C100390,Paid Ads,248,3,723.67,Champions
+C100391,Email,180,5,3494.81,Champions
+C100393,Paid Ads,377,1,666.74,At Risk
+C100395,Paid Ads,56,4,2270.0299999999997,Loyal Regulars
+C100396,Organic Search,650,2,533.24,At Risk
+C100397,Organic Search,619,2,2204.44,At Risk
+C100398,Email,438,2,586.64,At Risk
+C100399,Paid Ads,464,1,539.0799999999999,At Risk
+C100400,Organic Search,23,2,1271.6999999999998,Loyal Regulars
+C100401,Paid Ads,218,1,777.1200000000001,At Risk
+C100403,Organic Search,32,2,1323.945,Loyal Regulars
+C100404,Referral,220,5,1270.73,Champions
+C100405,Social,379,2,252.01999999999998,Hibernating / Lost
+C100406,Paid Ads,132,4,1972.9299999999998,Champions
+C100407,Email,367,2,1737.81,At Risk
+C100408,Organic Search,145,1,802.1000000000001,At Risk
+C100409,Social,377,2,2649.8199999999997,At Risk
+C100410,Paid Ads,343,5,4817.35,Champions
+C100411,Social,133,4,2834.29,Champions
+C100413,Organic Search,386,8,4290.0084,Champions
+C100414,Organic Search,536,2,1037.76,At Risk
+C100415,Email,240,2,1786.2500000000002,At Risk
+C100416,Paid Ads,31,1,900.7800000000001,Loyal Regulars
+C100418,Email,23,1,477.99,Loyal Regulars
+C100420,Paid Ads,102,3,1887.7299999999998,Champions
+C100423,Referral,53,5,3738.11,Champions
+C100424,Paid Ads,404,1,220.22000000000003,Hibernating / Lost
+C100425,Referral,15,2,387.81,Loyal Regulars
+C100426,Paid Ads,54,1,206.13,Hibernating / Lost
+C100427,Paid Ads,217,1,3501.89,At Risk
+C100428,Organic Search,290,3,2693.2200000000003,Champions
+C100432,Paid Ads,187,3,2211.66,Champions
+C100433,Social,23,2,463.96,Loyal Regulars
+C100434,Social,327,1,2301.79,At Risk
+C100436,Organic Search,372,2,264.81,At Risk
+C100437,Paid Ads,99,3,4839.52,Champions
+C100439,Paid Ads,388,4,2810.83,Champions
+C100440,Organic Search,76,3,1153.15,Loyal Regulars
+C100441,Referral,6,4,1574.12,Loyal Regulars
+C100442,Paid Ads,67,8,3929.06,Champions
+C100443,Paid Ads,385,1,304.05999999999995,Hibernating / Lost
+C100444,Social,336,1,168.19,Hibernating / Lost
+C100445,Email,103,3,2564.76,Champions
+C100446,Paid Ads,497,2,974.6,At Risk
+C100447,Paid Ads,51,2,472.72,Loyal Regulars
+C100448,Paid Ads,277,5,704.66,Champions
+C100449,Organic Search,416,3,743.29,At Risk
+C100450,Referral,7,5,1374.56,Loyal Regulars
+C100452,Organic Search,235,2,892.77,At Risk
+C100453,Organic Search,367,1,118.10000000000001,Hibernating / Lost
+C100454,Referral,252,2,3000.43,At Risk
+C100455,Organic Search,18,4,2360.74,Loyal Regulars
+C100460,Email,178,3,5297.37,Champions
+C100461,Paid Ads,25,2,2241.72,Loyal Regulars
+C100462,Email,170,1,273.72,Hibernating / Lost
+C100463,Organic Search,227,1,627.1,At Risk
+C100466,Organic Search,614,1,651.81,At Risk
+C100468,Organic Search,44,2,506.61,Loyal Regulars
+C100470,Organic Search,155,3,1407.3999999999999,Champions
+C100472,Paid Ads,271,1,235.14,Hibernating / Lost
+C100473,Referral,350,3,1626.76,Champions
+C100475,Organic Search,74,3,2401.18,Champions
+C100476,Email,222,1,1489.35,At Risk
+C100477,Referral,616,3,414.5,At Risk
+C100478,Email,256,2,351.26000000000005,At Risk
+C100479,Paid Ads,230,2,1173.94,At Risk
+C100480,Paid Ads,378,1,30.04,Hibernating / Lost
+C100482,Paid Ads,573,1,120.03999999999999,Hibernating / Lost
+C100483,Social,53,2,377.44,Loyal Regulars
+C100484,Social,442,1,129.35999999999999,Hibernating / Lost
+C100485,Organic Search,383,2,793.92,At Risk
+C100486,Email,332,3,1439.5800000000002,Champions
+C100488,Social,164,2,1280.75,At Risk
+C100489,Organic Search,149,1,154.44,Hibernating / Lost
+C100490,Social,2,2,556.87,Loyal Regulars
+C100491,Referral,169,1,153.77,Hibernating / Lost
+C100492,Organic Search,53,2,1428.74,Loyal Regulars
+C100493,Organic Search,194,3,1266.72,Champions
+C100494,Referral,495,2,456.10999999999996,At Risk
+C100495,Organic Search,81,2,1138.29,At Risk
+C100496,Paid Ads,201,5,992.2,Champions
+C100499,Paid Ads,74,1,1213.3899999999999,At Risk
+C100501,Organic Search,187,2,1903.52,At Risk
+C100502,Social,148,1,552.41,At Risk
+C100503,Organic Search,150,1,393.92999999999995,Hibernating / Lost
+C100504,Organic Search,483,2,1579.0299999999997,At Risk
+C100505,Organic Search,155,3,767.8,Champions
+C100506,Social,37,3,1714.78,Loyal Regulars
+C100507,Organic Search,602,1,177.92999999999998,Hibernating / Lost
+C100508,Referral,76,10,4034.2999999999997,Champions
+C100509,Email,353,1,798.9599999999999,At Risk
+C100510,Referral,55,2,968.37,Loyal Regulars
+C100512,Referral,176,2,779.3800000000001,At Risk
+C100513,Social,46,4,2596.9,Loyal Regulars
+C100514,Organic Search,89,1,255.66,Hibernating / Lost
+C100515,Referral,565,2,1108.42,At Risk
+C100516,Paid Ads,3,2,766.29,Loyal Regulars
+C100517,Paid Ads,685,1,1399.59,At Risk
+C100518,Referral,177,9,4680.95,Champions
+C100520,Email,231,8,3146.64,Champions
+C100521,Paid Ads,411,3,1158.3700000000001,Champions
+C100522,Paid Ads,3,3,1095.06,Loyal Regulars
+C100524,Paid Ads,490,2,2687.5,At Risk
+C100525,Paid Ads,157,1,136.5,Hibernating / Lost
+C100526,Organic Search,110,1,26.76,Hibernating / Lost
+C100528,Referral,149,1,425.03,At Risk
+C100531,Email,588,1,201.44,Hibernating / Lost
+C100533,Organic Search,233,3,1462.49,Champions
+C100535,Social,35,3,958.16,Loyal Regulars
+C100536,Organic Search,28,7,4820.61,Loyal Regulars
+C100537,Paid Ads,358,3,1483.57,Champions
+C100540,Organic Search,221,2,831.33,At Risk
+C100541,Organic Search,651,1,4322.2,At Risk
+C100542,Organic Search,238,1,316.09000000000003,Hibernating / Lost
+C100544,Organic Search,101,3,411.98,At Risk
+C100545,Paid Ads,83,2,954.0600000000001,At Risk
+C100546,Social,35,2,1888.18,Loyal Regulars
+C100548,Email,113,2,822.58,At Risk
+C100549,Organic Search,312,1,461.43,At Risk
+C100551,Email,403,1,528.51,At Risk
+C100553,Social,481,3,1505.73,Champions
+C100554,Paid Ads,124,1,208.61,Hibernating / Lost
+C100555,Organic Search,207,2,810.74,At Risk
+C100560,Referral,370,2,1065.08,At Risk
+C100561,Paid Ads,651,1,625.97,At Risk
+C100562,Organic Search,9,2,1111.06,Loyal Regulars
+C100563,Paid Ads,414,1,104.4,Hibernating / Lost
+C100564,Email,134,3,1281.5500000000002,Champions
+C100566,Paid Ads,588,2,600.53,At Risk
+C100567,Organic Search,173,10,6413.0,Champions
+C100569,Organic Search,156,2,933.1700000000001,At Risk
+C100572,Organic Search,381,5,2184.56,Champions
+C100573,Paid Ads,408,3,3896.39,Champions
+C100574,Paid Ads,500,2,683.02,At Risk
+C100575,Paid Ads,46,6,4358.53,Champions
+C100576,Paid Ads,55,1,969.95,At Risk
+C100577,Social,222,3,1911.1,Champions
+C100579,Paid Ads,391,1,593.5,At Risk
+C100580,Paid Ads,595,1,264.7,Hibernating / Lost
+C100581,Organic Search,63,4,3054.9700000000003,Champions
+C100582,Paid Ads,550,3,306.78999999999996,At Risk
+C100584,Email,416,3,5382.570000000001,Champions
+C100586,Social,142,3,1235.8000000000002,Champions
+C100588,Referral,23,4,1230.72,Loyal Regulars
+C100589,Paid Ads,20,2,415.41,Loyal Regulars
+C100590,Organic Search,34,3,1172.69,Loyal Regulars
+C100592,Email,409,4,1365.32,Champions
+C100594,Paid Ads,46,1,539.51,At Risk
+C100595,Email,5,4,2571.47,Loyal Regulars
+C100596,Referral,137,5,3506.55,Champions
+C100597,Email,87,4,4224.75,Champions
+C100598,Paid Ads,223,2,1898.33,At Risk
+C100600,Email,124,1,102.78,Hibernating / Lost
+C100601,Social,207,1,1477.23,At Risk
+C100602,Paid Ads,211,1,1459.41,At Risk
+C100603,Paid Ads,649,1,904.0999999999999,At Risk
+C100604,Referral,238,1,1138.6,At Risk
+C100605,Paid Ads,418,1,1072.29,At Risk
+C100606,Email,228,2,888.55,At Risk
+C100607,Paid Ads,114,1,13.77,Hibernating / Lost
+C100608,Organic Search,47,3,3281.1899999999996,Loyal Regulars
+C100610,Organic Search,10,4,437.53000000000003,Loyal Regulars
+C100611,Organic Search,435,2,623.28,At Risk
+C100612,Email,48,2,62.56,Hibernating / Lost
+C100613,Email,400,3,1720.51,Champions
+C100614,Referral,7,4,1243.76,Loyal Regulars
+C100615,Organic Search,56,1,208.2,Hibernating / Lost
+C100617,Social,44,1,35.48,Hibernating / Lost
+C100618,Organic Search,631,1,1761.96,At Risk
+C100619,Organic Search,259,3,1164.46,Champions
+C100620,Organic Search,159,2,458.87,At Risk
+C100621,Paid Ads,386,3,961.45,Champions
+C100622,Referral,46,2,442.34,Loyal Regulars
+C100624,Email,38,2,1340.69,Loyal Regulars
+C100628,Organic Search,147,2,484.46,At Risk
+C100629,Organic Search,373,1,248.95,Hibernating / Lost
+C100630,Organic Search,239,1,467.03,At Risk
+C100633,Email,330,3,2871.47,Champions
+C100634,Organic Search,301,3,1419.5,Champions
+C100635,Paid Ads,303,1,218.75,Hibernating / Lost
+C100636,Referral,405,4,3968.59,Champions
+C100637,Email,282,2,894.6545,At Risk
+C100639,Paid Ads,180,1,635.4,At Risk
+C100640,Referral,56,3,944.5999999999999,Loyal Regulars
+C100641,Organic Search,168,2,2118.66,At Risk
+C100642,Paid Ads,47,2,1659.98,Loyal Regulars
+C100644,Paid Ads,17,2,721.64,Loyal Regulars
+C100645,Paid Ads,514,3,3916.0800000000004,Champions
+C100646,Organic Search,383,1,435.68,At Risk
+C100647,Referral,194,5,965.19,Champions
+C100650,Organic Search,210,2,394.91,At Risk
+C100651,Paid Ads,93,1,430.67,At Risk
+C100653,Paid Ads,94,2,252.46000000000004,Hibernating / Lost
+C100654,Organic Search,9,5,1183.7,Loyal Regulars
+C100655,Referral,412,1,851.62,At Risk
+C100656,Social,204,2,127.56,Hibernating / Lost
+C100657,Paid Ads,298,1,378.84999999999997,At Risk
+C100658,Email,613,2,449.53,At Risk
+C100659,Referral,173,4,2455.9300000000003,Champions
+C100660,Social,195,7,6151.7,Champions
+C100661,Email,142,1,535.45,At Risk
+C100662,Referral,86,1,168.44,Hibernating / Lost
+C100663,Social,281,4,1435.55,Champions
+C100664,Referral,189,4,2469.9199999999996,Champions
+C100665,Paid Ads,194,1,229.01000000000002,Hibernating / Lost
+C100666,Organic Search,99,4,2690.44,Champions
+C100667,Organic Search,184,1,462.91999999999996,At Risk
+C100668,Paid Ads,34,1,169.32,Hibernating / Lost
+C100670,Paid Ads,105,3,2072.96,Champions
+C100672,Paid Ads,305,2,1103.43,At Risk
+C100673,Referral,73,1,167.75,Hibernating / Lost
+C100674,Organic Search,229,1,774.42,At Risk
+C100676,Referral,261,2,1061.65,At Risk
+C100677,Referral,22,1,2898.5,Loyal Regulars
+C100678,Social,371,2,2133.0600000000004,At Risk
+C100679,Referral,26,1,474.6,Loyal Regulars
+C100680,Referral,102,1,318.21999999999997,Hibernating / Lost
+C100681,Organic Search,431,2,688.84,At Risk
+C100682,Paid Ads,28,3,2722.62,Loyal Regulars
+C100683,Organic Search,53,2,1148.6200000000001,Loyal Regulars
+C100686,Paid Ads,225,1,568.32,At Risk
+C100687,Paid Ads,322,2,309.59000000000003,At Risk
+C100688,Organic Search,95,3,2237.29,Champions
+C100689,Organic Search,158,1,25.76,Hibernating / Lost
+C100692,Social,103,1,717.54,At Risk
+C100694,Referral,92,10,4552.21,Champions
+C100696,Organic Search,166,1,325.62,Hibernating / Lost
+C100697,Organic Search,251,2,610.0999999999999,At Risk
+C100698,Referral,660,2,1387.4299999999998,At Risk
+C100702,Email,600,2,1667.57,At Risk
+C100703,Referral,570,2,790.87,At Risk
+C100704,Organic Search,198,3,1753.94,Champions
+C100705,Organic Search,381,1,1660.0000000000002,At Risk
+C100706,Social,653,4,2564.47,Champions
+C100707,Organic Search,331,2,2318.04,At Risk
+C100708,Paid Ads,406,1,8.48,Hibernating / Lost
+C100709,Paid Ads,387,1,501.71000000000004,At Risk
+C100711,Referral,49,3,1901.97,Loyal Regulars
+C100712,Referral,67,2,3194.35,Loyal Regulars
+C100713,Paid Ads,271,1,413.84000000000003,At Risk
+C100714,Referral,49,3,2470.357,Loyal Regulars
+C100715,Organic Search,2,3,1461.4,Loyal Regulars
+C100717,Paid Ads,430,1,1182.5400000000002,At Risk
+C100718,Social,418,1,616.79,At Risk
+C100720,Organic Search,531,4,7068.3,Champions
+C100721,Paid Ads,128,2,1341.58,At Risk
+C100722,Referral,173,1,1590.97,At Risk
+C100724,Paid Ads,218,2,743.38,At Risk
+C100725,Email,15,3,2972.75,Loyal Regulars
+C100727,Organic Search,255,1,142.88,Hibernating / Lost
+C100730,Paid Ads,299,1,159.89999999999998,Hibernating / Lost
+C100731,Referral,74,2,1281.32,At Risk
+C100733,Email,43,4,1192.0,Loyal Regulars
+C100734,Social,599,1,81.22999999999999,Hibernating / Lost
+C100737,Social,523,1,268.71,Hibernating / Lost
+C100738,Organic Search,130,1,616.94,At Risk
+C100739,Email,144,2,1048.8400000000001,At Risk
+C100740,Referral,7,2,3979.11,Loyal Regulars
+C100743,Organic Search,11,3,1987.29,Loyal Regulars
+C100744,Organic Search,231,1,29.37,Hibernating / Lost
+C100747,Referral,174,3,2658.12,Champions
+C100749,Referral,33,4,1563.72,Loyal Regulars
+C100750,Organic Search,16,2,445.54999999999995,Loyal Regulars
+C100751,Organic Search,388,4,640.9200000000001,Champions
+C100752,Organic Search,111,4,899.38,Champions
+C100753,Organic Search,8,4,3026.63,Loyal Regulars
+C100754,Social,68,2,1936.0,Loyal Regulars
+C100755,Paid Ads,254,1,553.46,At Risk
+C100757,Referral,282,4,2204.57,Champions
+C100758,Paid Ads,538,1,1261.0800000000002,At Risk
+C100759,Organic Search,79,2,1191.53,At Risk
+C100761,Email,34,7,2993.15,Loyal Regulars
+C100762,Referral,168,1,169.07999999999998,Hibernating / Lost
+C100763,Organic Search,31,3,518.66,Loyal Regulars
+C100764,Social,226,1,2248.73,At Risk
+C100765,Referral,23,4,584.42,Loyal Regulars
+C100766,Referral,128,3,2344.49,Champions
+C100767,Organic Search,143,3,3095.4500000000003,Champions
+C100768,Organic Search,72,1,361.12,Hibernating / Lost
+C100769,Referral,389,1,250.55,Hibernating / Lost
+C100770,Organic Search,207,3,486.15,At Risk
+C100771,Email,125,1,611.14,At Risk
+C100772,Referral,687,1,182.70999999999998,Hibernating / Lost
+C100773,Organic Search,300,1,747.5,At Risk
+C100774,Referral,49,2,1470.15,Loyal Regulars
+C100776,Email,466,2,439.26,At Risk
+C100777,Paid Ads,647,1,68.48,Hibernating / Lost
+C100778,Referral,469,2,998.8100000000001,At Risk
+C100779,Paid Ads,207,1,397.86,At Risk
+C100780,Email,98,3,2202.67,Champions
+C100781,Referral,264,1,63.4,Hibernating / Lost
+C100782,Email,477,4,1134.92,Champions
+C100783,Organic Search,357,9,4371.14,Champions
+C100784,Organic Search,137,6,4950.03,Champions
+C100786,Paid Ads,402,2,717.99,At Risk
+C100787,Paid Ads,111,1,463.01,At Risk
+C100789,Paid Ads,695,1,74.61,Hibernating / Lost
+C100790,Referral,510,2,345.11,At Risk
+C100791,Social,250,2,1074.13,At Risk
+C100793,Email,194,1,843.4100000000001,At Risk
+C100794,Email,43,2,539.8,Loyal Regulars
+C100795,Paid Ads,222,1,383.66,At Risk
+C100796,Organic Search,111,1,118.09,Hibernating / Lost
+C100797,Referral,157,2,601.1,At Risk
+C100798,Social,404,2,1362.47,At Risk
+C100799,Email,354,4,1346.35,Champions
+C100800,Social,194,1,741.19,At Risk
+C100801,Social,496,1,297.1,Hibernating / Lost
+C100802,Paid Ads,10,5,4772.87,Loyal Regulars
+C100803,Email,131,3,4963.59,Champions
+C100805,Social,131,1,2122.75,At Risk
+C100806,Organic Search,400,1,347.0,Hibernating / Lost
+C100807,Paid Ads,379,6,6537.22,Champions
+C100808,Referral,164,4,2181.63,Champions
+C100811,Paid Ads,65,4,3629.3099999999995,Champions
+C100812,Social,66,1,31.68,Hibernating / Lost
+C100813,Referral,339,4,2983.67,Champions
+C100814,Organic Search,233,2,737.07,At Risk
+C100815,Referral,84,1,149.06,Hibernating / Lost
+C100816,Paid Ads,550,2,2124.46,At Risk
+C100817,Email,359,4,2717.68,Champions
+C100818,Email,107,3,3556.81,Champions
+C100820,Organic Search,685,2,719.13,At Risk
+C100821,Organic Search,161,4,1500.14,Champions
+C100824,Paid Ads,36,3,1788.17,Loyal Regulars
+C100825,Organic Search,662,3,2447.25,Champions
+C100826,Paid Ads,13,3,3008.73,Loyal Regulars
+C100827,Referral,136,2,2945.8599999999997,At Risk
+C100829,Paid Ads,281,1,257.38,Hibernating / Lost
+C100830,Social,267,5,4475.799999999999,Champions
+C100831,Organic Search,370,5,1943.7,Champions
+C100832,Email,314,3,574.6,At Risk
+C100833,Organic Search,621,1,91.92999999999999,Hibernating / Lost
+C100834,Referral,190,1,782.53,At Risk
+C100836,Referral,9,2,1588.1000000000001,Loyal Regulars
+C100837,Organic Search,162,1,2754.27,At Risk
+C100838,Paid Ads,709,1,134.75,Hibernating / Lost
+C100839,Referral,38,3,2106.59,Loyal Regulars
+C100840,Organic Search,528,1,271.28,Hibernating / Lost
+C100843,Social,231,1,294.38,Hibernating / Lost
+C100844,Email,381,5,3505.15,Champions
+C100845,Email,388,2,688.96,At Risk
+C100846,Email,622,1,47.89,Hibernating / Lost
+C100847,Paid Ads,193,1,674.3799999999999,At Risk
+C100848,Paid Ads,9,2,1773.4299999999998,Loyal Regulars
+C100849,Paid Ads,358,1,456.2,At Risk
+C100850,Email,9,1,468.12,Loyal Regulars
+C100851,Organic Search,97,4,560.9,Champions
+C100852,Referral,52,4,1168.28,Loyal Regulars
+C100853,Referral,398,3,177.35000000000002,Hibernating / Lost
+C100854,Paid Ads,321,1,81.18,Hibernating / Lost
+C100856,Organic Search,441,3,2336.1899999999996,Champions
+C100857,Social,534,1,204.81,Hibernating / Lost
+C100858,Social,72,4,1530.35,Champions
+C100859,Social,240,1,88.43,Hibernating / Lost
+C100860,Paid Ads,107,2,918.5,At Risk
+C100861,Organic Search,143,1,12.46,Hibernating / Lost
+C100863,Organic Search,15,7,3344.92,Loyal Regulars
+C100865,Organic Search,10,5,3753.54,Loyal Regulars
+C100866,Social,173,1,1126.34,At Risk
+C100867,Organic Search,237,1,436.64,At Risk
+C100868,Organic Search,81,3,3439.1000000000004,Champions
+C100869,Referral,18,3,5673.0,Loyal Regulars
+C100872,Email,17,2,174.05,Loyal Regulars
+C100873,Referral,663,1,695.55,At Risk
+C100874,Email,73,3,3613.3499999999995,Champions
+C100875,Paid Ads,92,4,1818.69,Champions
+C100876,Email,125,3,1931.2544,Champions
+C100877,Paid Ads,82,4,5301.33,Champions
+C100878,Paid Ads,386,1,2185.76,At Risk
+C100879,Paid Ads,158,3,2541.274,Champions
+C100880,Organic Search,374,4,1393.07,Champions
+C100881,Referral,189,1,163.75,Hibernating / Lost
+C100882,Organic Search,31,2,2505.4900000000002,Loyal Regulars
+C100883,Organic Search,113,5,3145.85,Champions
+C100884,Organic Search,55,6,6309.76,Champions
+C100885,Referral,94,3,2765.02,Champions
+C100886,Paid Ads,193,3,753.06,Champions
+C100887,Email,269,5,1390.3899999999999,Champions
+C100890,Referral,498,2,799.48,At Risk
+C100892,Organic Search,73,4,3156.8,Champions
+C100893,Email,137,1,1091.97,At Risk
+C100894,Social,40,1,437.65,Hibernating / Lost
+C100895,Organic Search,285,2,463.80999999999995,At Risk
+C100896,Paid Ads,337,1,1053.76,At Risk
+C100897,Organic Search,223,1,366.42,Hibernating / Lost
+C100899,Email,73,1,985.1,At Risk
+C100900,Email,703,1,229.95,Hibernating / Lost
+C100901,Email,650,1,2278.4,At Risk
+C100902,Organic Search,311,2,249.53,Hibernating / Lost
+C100904,Email,88,4,5041.87,Champions
+C100906,Organic Search,340,2,1662.19,At Risk
+C100908,Paid Ads,508,1,2349.11,At Risk
+C100909,Organic Search,621,1,1336.5,At Risk
+C100910,Organic Search,145,6,3518.94,Champions
+C100911,Paid Ads,368,2,556.34,At Risk
+C100913,Organic Search,139,1,39.69,Hibernating / Lost
+C100914,Referral,379,2,597.8399999999999,At Risk
+C100916,Referral,209,3,1681.25,Champions
+C100917,Paid Ads,165,1,39.39,Hibernating / Lost
+C100920,Social,119,4,1241.43,Champions
+C100922,Paid Ads,201,1,655.8399999999999,At Risk
+C100923,Email,368,1,33.85,Hibernating / Lost
+C100924,Email,154,4,1834.28,Champions
+C100925,Organic Search,14,2,919.8135,Loyal Regulars
+C100926,Paid Ads,337,1,143.71,Hibernating / Lost
+C100930,Paid Ads,235,4,2685.64,Champions
+C100932,Paid Ads,55,2,723.62,Loyal Regulars
+C100934,Organic Search,295,1,329.12,Hibernating / Lost
+C100935,Organic Search,161,1,1903.98,At Risk
+C100936,Organic Search,585,2,1771.5,At Risk
+C100937,Paid Ads,667,1,1329.98,At Risk
+C100938,Referral,134,5,4567.46,Champions
+C100940,Organic Search,307,1,785.19,At Risk
+C100941,Paid Ads,154,5,1517.91,Champions
+C100943,Social,351,1,232.07999999999998,Hibernating / Lost
+C100944,Organic Search,612,1,1514.814,At Risk
+C100945,Email,436,1,932.9499999999999,At Risk
+C100947,Email,409,3,299.35,At Risk
+C100948,Paid Ads,123,1,780.77,At Risk
+C100949,Referral,38,4,2897.37,Loyal Regulars
+C100950,Organic Search,63,2,207.39,Hibernating / Lost
+C100951,Social,464,1,1032.04,At Risk
+C100952,Paid Ads,235,1,2466.82,At Risk
+C100953,Referral,72,6,4478.17,Champions
+C100955,Social,28,1,287.45,Hibernating / Lost
+C100956,Organic Search,315,3,527.27,At Risk
+C100958,Organic Search,69,1,87.44999999999999,Hibernating / Lost
+C100960,Paid Ads,537,1,825.26,At Risk
+C100961,Social,1,1,806.97,Loyal Regulars
+C100963,Paid Ads,147,3,4761.9,Champions
+C100964,Email,126,2,4342.47,Champions
+C100965,Referral,184,7,4017.75,Champions
+C100967,Organic Search,224,3,1070.661,Champions
+C100969,Referral,402,7,2839.29,Champions
+C100970,Organic Search,529,3,2245.35,Champions
+C100973,Social,254,1,266.74,Hibernating / Lost
+C100974,Social,581,4,1116.52,Champions
+C100975,Referral,117,4,2151.2000000000003,Champions
+C100976,Organic Search,372,3,3199.57,Champions
+C100980,Paid Ads,260,2,543.25,At Risk
+C100981,Email,84,1,589.615,At Risk
+C100982,Paid Ads,378,2,1317.82,At Risk
+C100983,Email,5,5,2376.6800000000003,Loyal Regulars
+C100984,Paid Ads,194,5,1955.3500000000001,Champions
+C100985,Paid Ads,330,1,61.76,Hibernating / Lost
+C100987,Organic Search,445,3,3619.7599999999998,Champions
+C100988,Referral,520,2,1268.99,At Risk
+C100990,Organic Search,265,3,1173.04,Champions
+C100991,Referral,328,2,540.7,At Risk
+C100992,Paid Ads,600,1,72.30000000000001,Hibernating / Lost
+C100994,Organic Search,123,2,1391.68,At Risk
+C100995,Organic Search,138,4,2555.76,Champions
+C100996,Email,421,1,111.68,Hibernating / Lost
+C100997,Organic Search,381,2,1501.14,At Risk
+C100998,Organic Search,10,2,1178.29,Loyal Regulars
+C101001,Organic Search,249,1,147.25,Hibernating / Lost
+C101002,Referral,390,1,550.6500000000001,At Risk
+C101003,Organic Search,76,3,1351.82,Champions
+C101004,Email,543,1,555.99,At Risk
+C101005,Paid Ads,70,2,2130.55,Loyal Regulars
+C101006,Paid Ads,12,1,256.27,Loyal Regulars
+C101007,Organic Search,200,2,1191.38,At Risk
+C101008,Referral,246,2,993.6300000000001,At Risk
+C101009,Referral,389,1,55.260000000000005,Hibernating / Lost
+C101010,Organic Search,28,5,3517.2500000000005,Loyal Regulars
+C101011,Organic Search,138,6,4095.13,Champions
+C101012,Social,16,11,5770.47,Loyal Regulars
+C101013,Paid Ads,15,5,1158.99,Loyal Regulars
+C101017,Email,391,1,46.010000000000005,Hibernating / Lost
+C101018,Paid Ads,662,1,564.71,At Risk
+C101019,Social,385,2,435.06,At Risk
+C101021,Organic Search,615,1,1051.3600000000001,At Risk
+C101022,Paid Ads,79,2,1773.3999999999999,At Risk
+C101025,Organic Search,297,6,4048.29,Champions
+C101027,Email,388,2,1356.57,At Risk
+C101028,Organic Search,386,1,1664.04,At Risk
+C101029,Paid Ads,362,3,2073.3289999999997,Champions
+C101030,Email,342,5,2552.78,Champions
+C101032,Referral,209,1,1386.4,At Risk
+C101033,Referral,128,1,254.70000000000002,Hibernating / Lost
+C101034,Email,181,3,4462.34,Champions
+C101035,Organic Search,130,4,1619.8600000000001,Champions
+C101037,Email,235,3,3515.34,Champions
+C101038,Organic Search,474,1,651.71,At Risk
+C101039,Organic Search,16,4,1501.45,Loyal Regulars
+C101043,Organic Search,370,3,3212.4500000000003,Champions
+C101044,Referral,258,1,262.46000000000004,Hibernating / Lost
+C101045,Social,33,6,2351.49,Loyal Regulars
+C101049,Social,526,1,709.32,At Risk
+C101050,Social,325,1,111.16,Hibernating / Lost
+C101051,Organic Search,84,5,2667.2,Champions
+C101052,Referral,240,2,573.81,At Risk
+C101053,Social,52,2,1754.09,Loyal Regulars
+C101054,Social,343,3,1876.53,Champions
+C101059,Email,345,3,1747.53,Champions
+C101060,Email,225,2,810.51,At Risk
+C101063,Organic Search,37,3,1685.09,Loyal Regulars
+C101064,Email,218,3,643.84,At Risk
+C101066,Email,44,4,3932.77,Loyal Regulars
+C101067,Referral,100,3,791.0899999999999,Champions
+C101068,Paid Ads,511,1,974.93,At Risk
+C101071,Social,266,4,2490.61,Champions
+C101072,Email,218,1,42.24,Hibernating / Lost
+C101073,Paid Ads,156,2,998.42,At Risk
+C101074,Organic Search,418,1,142.05,Hibernating / Lost
+C101075,Organic Search,109,10,3492.11,Champions
+C101076,Paid Ads,280,2,467.43,At Risk
+C101077,Social,492,3,4100.8,Champions
+C101079,Organic Search,114,3,1131.9399999999998,Champions
+C101080,Referral,39,3,2057.2,Loyal Regulars
+C101082,Referral,25,2,3124.1,Loyal Regulars
+C101083,Organic Search,298,3,3345.16,Champions
+C101084,Email,53,2,3017.4800000000005,Loyal Regulars
+C101085,Social,129,1,439.96000000000004,At Risk
+C101086,Organic Search,118,2,589.51,At Risk
+C101087,Email,1,1,343.52,Loyal Regulars
+C101089,Organic Search,367,3,615.74,At Risk
+C101090,Organic Search,228,4,1440.9199999999998,Champions
+C101091,Email,371,1,419.17,At Risk
+C101096,Organic Search,19,5,3698.39,Loyal Regulars
+C101098,Referral,660,2,773.06,At Risk
+C101100,Referral,15,5,2849.0699999999997,Loyal Regulars
+C101101,Paid Ads,53,3,581.09,Loyal Regulars
+C101102,Social,171,1,253.42,Hibernating / Lost
+C101103,Email,622,1,68.88,Hibernating / Lost
+C101105,Referral,385,2,3487.2200000000003,At Risk
+C101106,Paid Ads,597,1,140.12,Hibernating / Lost
+C101107,Organic Search,22,3,4294.679999999999,Loyal Regulars
+C101109,Email,353,5,3191.12,Champions
+C101110,Organic Search,350,1,268.0,Hibernating / Lost
+C101112,Organic Search,7,5,1579.1,Loyal Regulars
+C101113,Paid Ads,552,2,931.09,At Risk
+C101114,Paid Ads,367,1,711.86,At Risk
+C101115,Paid Ads,277,3,1916.96,Champions
+C101116,Organic Search,87,2,1138.1100000000001,At Risk
+C101118,Email,47,3,2990.52,Loyal Regulars
+C101119,Paid Ads,276,2,4551.1,Champions
+C101120,Email,709,2,3728.24,At Risk
+C101121,Organic Search,355,2,2978.2,At Risk
+C101122,Organic Search,50,3,2340.38,Loyal Regulars
+C101123,Organic Search,278,2,559.9,At Risk
+C101124,Paid Ads,97,2,252.20000000000002,Hibernating / Lost
+C101125,Paid Ads,140,2,447.99,At Risk
+C101126,Referral,176,2,35.67,Hibernating / Lost
+C101127,Paid Ads,176,2,658.41,At Risk
+C101131,Paid Ads,282,2,252.88,Hibernating / Lost
+C101133,Paid Ads,249,1,255.14999999999998,Hibernating / Lost
+C101134,Organic Search,178,3,703.29,Champions
+C101135,Referral,542,2,2388.5099999999998,At Risk
+C101136,Social,160,1,35.2,Hibernating / Lost
+C101137,Organic Search,191,2,1108.1599999999999,At Risk
+C101138,Email,131,3,1023.54,Champions
+C101142,Email,40,3,3249.98,Loyal Regulars
+C101143,Social,164,1,123.72,Hibernating / Lost
+C101144,Social,210,2,2003.6899999999998,At Risk
+C101148,Organic Search,27,2,3352.69,Loyal Regulars
+C101149,Paid Ads,113,1,1076.13,At Risk
+C101150,Social,391,2,1623.62,At Risk
+C101152,Paid Ads,293,5,4432.7,Champions
+C101153,Referral,8,3,1406.62,Loyal Regulars
+C101154,Paid Ads,374,5,7892.150000000001,Champions
+C101156,Social,46,2,297.55,Loyal Regulars
+C101157,Paid Ads,193,1,821.52,At Risk
+C101159,Organic Search,177,7,3025.08,Champions
+C101161,Organic Search,134,1,1316.8700000000001,At Risk
+C101162,Paid Ads,104,4,2072.8305,Champions
+C101163,Organic Search,409,1,106.18,Hibernating / Lost
+C101166,Paid Ads,666,4,813.4761,Champions
+C101167,Social,350,3,324.18,At Risk
+C101170,Referral,238,1,1535.96,At Risk
+C101171,Paid Ads,338,1,419.6,At Risk
+C101174,Paid Ads,313,1,312.73,Hibernating / Lost
+C101176,Social,249,4,2505.69,Champions
+C101177,Organic Search,319,4,4435.91,Champions
+C101178,Organic Search,389,3,1266.56,Champions
+C101179,Organic Search,20,2,1619.66,Loyal Regulars
+C101180,Paid Ads,159,2,436.5,At Risk
+C101182,Email,187,3,1711.6499999999999,Champions
+C101183,Organic Search,42,5,2075.46,Loyal Regulars
+C101184,Email,113,5,1341.15,Champions
+C101185,Organic Search,16,6,2648.9700000000003,Loyal Regulars
+C101187,Paid Ads,196,4,1900.74,Champions
+C101188,Email,368,1,21.74,Hibernating / Lost
+C101189,Paid Ads,513,5,3701.13,Champions
+C101191,Referral,163,4,1488.1200000000001,Champions
+C101194,Social,411,1,1819.41,At Risk
+C101196,Organic Search,108,5,7837.43,Champions
+C101197,Paid Ads,84,1,602.15,At Risk
+C101200,Email,156,1,1041.85,At Risk
+C101201,Organic Search,27,6,1620.5,Loyal Regulars
+C101202,Referral,49,4,2306.25,Loyal Regulars
+C101203,Social,94,1,132.32,Hibernating / Lost
+C101204,Email,70,2,998.01,At Risk
+C101206,Email,388,3,2924.09,Champions
+C101207,Social,84,1,1069.83,At Risk
+C101208,Paid Ads,454,2,650.28,At Risk
+C101209,Organic Search,15,3,692.95,Loyal Regulars
+C101211,Paid Ads,240,1,22.6,Hibernating / Lost
+C101212,Organic Search,41,8,11011.41,Champions
+C101213,Email,32,4,770.79,Loyal Regulars
+C101216,Organic Search,411,1,301.43,Hibernating / Lost
+C101220,Organic Search,207,3,1144.98,Champions
+C101222,Organic Search,23,3,934.4399999999999,Loyal Regulars
+C101224,Paid Ads,376,1,511.5,At Risk
+C101226,Paid Ads,5,1,755.2,Loyal Regulars
+C101228,Organic Search,590,1,685.5584,At Risk
+C101230,Organic Search,93,4,1334.15,Champions
+C101232,Social,14,1,74.04,Hibernating / Lost
+C101233,Social,210,1,804.2,At Risk
+C101237,Referral,294,7,5132.09,Champions
+C101241,Paid Ads,145,4,1283.59,Champions
+C101242,Referral,141,1,392.82,Hibernating / Lost
+C101244,Organic Search,84,1,43.03,Hibernating / Lost
+C101245,Social,43,5,1181.1100000000001,Loyal Regulars
+C101246,Organic Search,160,1,540.39,At Risk
+C101247,Social,174,2,383.08000000000004,At Risk
+C101250,Email,582,1,546.69,At Risk
+C101252,Referral,614,1,385.65,At Risk
+C101254,Email,241,3,1114.23,Champions
+C101255,Referral,619,1,184.18,Hibernating / Lost
+C101257,Organic Search,231,1,3829.4,At Risk
+C101258,Paid Ads,338,1,1330.68,At Risk
+C101259,Organic Search,139,1,521.66,At Risk
+C101260,Paid Ads,93,1,38.52,Hibernating / Lost
+C101262,Paid Ads,147,3,1128.53,Champions
+C101263,Paid Ads,220,1,335.76,Hibernating / Lost
+C101264,Referral,254,5,1444.28,Champions
+C101265,Organic Search,684,1,283.4,Hibernating / Lost
+C101266,Referral,587,1,395.53,At Risk
+C101268,Paid Ads,75,2,969.5799999999999,At Risk
+C101269,Paid Ads,383,2,3533.3068000000003,At Risk
+C101270,Paid Ads,179,2,191.62,Hibernating / Lost
+C101271,Organic Search,652,1,219.66,Hibernating / Lost
+C101273,Organic Search,72,5,2286.4500000000003,Champions
+C101275,Paid Ads,20,2,3071.19,Loyal Regulars
+C101276,Paid Ads,86,3,1962.815,Champions
+C101277,Referral,35,3,2617.81,Loyal Regulars
+C101278,Organic Search,483,2,1374.02,At Risk
+C101279,Social,163,1,477.15999999999997,At Risk
+C101280,Referral,196,2,175.37,Hibernating / Lost
+C101281,Social,176,2,5224.72,Champions
+C101283,Organic Search,171,3,2452.17,Champions
+C101285,Organic Search,339,6,3402.94,Champions
+C101287,Paid Ads,387,1,183.14000000000001,Hibernating / Lost
+C101288,Organic Search,167,9,5824.38,Champions
+C101290,Organic Search,368,2,338.49,At Risk
+C101291,Paid Ads,175,3,621.04,At Risk
+C101292,Email,316,1,62.480000000000004,Hibernating / Lost
+C101293,Organic Search,711,1,50.22,Hibernating / Lost
+C101294,Paid Ads,134,1,154.63,Hibernating / Lost
+C101295,Referral,42,1,77.8,Hibernating / Lost
+C101296,Organic Search,145,6,2551.94,Champions
+C101297,Paid Ads,6,1,2460.3,Loyal Regulars
+C101298,Organic Search,234,4,2488.37,Champions
+C101299,Email,475,4,3108.68,Champions
+C101300,Organic Search,165,3,787.17,Champions
+C101302,Referral,287,1,272.46,Hibernating / Lost
+C101303,Organic Search,69,3,2043.09,Loyal Regulars
+C101304,Paid Ads,123,3,4530.857000000001,Champions
+C101306,Email,293,3,1631.15,Champions
+C101307,Paid Ads,583,1,264.41,Hibernating / Lost
+C101308,Organic Search,433,2,166.97,Hibernating / Lost
+C101309,Organic Search,192,2,744.52,At Risk
+C101310,Social,355,2,1592.8,At Risk
+C101311,Paid Ads,536,1,1036.65,At Risk
+C101312,Referral,128,2,2454.87,At Risk
+C101313,Paid Ads,21,3,1305.63,Loyal Regulars
+C101314,Social,148,1,283.46999999999997,Hibernating / Lost
+C101315,Organic Search,367,3,2137.41,Champions
+C101316,Organic Search,6,2,1151.07,Loyal Regulars
+C101317,Social,166,4,1911.1499999999999,Champions
+C101318,Social,23,7,3092.0299999999997,Loyal Regulars
+C101319,Organic Search,149,3,2388.9900000000002,Champions
+C101320,Paid Ads,263,1,82.2,Hibernating / Lost
+C101321,Paid Ads,257,1,38.37,Hibernating / Lost
+C101322,Paid Ads,340,2,1388.077,At Risk
+C101323,Organic Search,32,4,3416.55,Loyal Regulars
+C101324,Referral,39,3,887.86,Loyal Regulars
+C101325,Organic Search,55,1,553.51,At Risk
+C101326,Email,202,3,2394.44,Champions
+C101327,Organic Search,571,2,1291.45,At Risk
+C101328,Organic Search,165,3,855.8100000000001,Champions
+C101329,Email,173,3,2013.37,Champions
+C101330,Paid Ads,266,3,1163.88,Champions
+C101331,Email,65,4,2353.91,Champions
+C101334,Email,6,2,1202.7,Loyal Regulars
+C101335,Referral,11,1,582.5799999999999,Loyal Regulars
+C101337,Paid Ads,207,4,2681.21,Champions
+C101338,Paid Ads,105,1,792.9100000000001,At Risk
+C101339,Paid Ads,172,8,2035.33,Champions
+C101340,Organic Search,7,7,2526.32,Loyal Regulars
+C101341,Organic Search,126,2,1961.12,At Risk
+C101342,Paid Ads,292,3,1014.96,Champions
+C101343,Organic Search,242,2,2100.77,At Risk
+C101345,Organic Search,95,2,387.75,At Risk
+C101346,Organic Search,96,2,1307.41,At Risk
+C101347,Email,50,4,3930.61,Loyal Regulars
+C101348,Paid Ads,161,1,1084.54,At Risk
+C101350,Paid Ads,156,2,672.1700000000001,At Risk
+C101352,Paid Ads,389,1,598.0400000000001,At Risk
+C101355,Paid Ads,454,1,376.78999999999996,At Risk
+C101356,Social,252,5,4126.8,Champions
+C101357,Referral,17,1,109.08,Hibernating / Lost
+C101358,Organic Search,203,5,1946.94,Champions
+C101359,Paid Ads,373,2,717.78,At Risk
+C101360,Email,505,2,112.19,Hibernating / Lost
+C101361,Social,634,1,100.35,Hibernating / Lost
+C101362,Paid Ads,483,1,891.48,At Risk
+C101363,Organic Search,405,6,2094.2400000000002,Champions
+C101364,Paid Ads,381,1,680.53,At Risk
+C101365,Organic Search,170,3,4835.49,Champions
+C101366,Referral,505,1,946.58,At Risk
+C101369,Referral,222,1,404.53999999999996,At Risk
+C101370,Email,209,1,191.03,Hibernating / Lost
+C101371,Email,28,4,1234.71,Loyal Regulars
+C101372,Referral,27,5,2553.84,Loyal Regulars
+C101373,Referral,283,2,1801.9199999999998,At Risk
+C101374,Referral,186,1,122.4,Hibernating / Lost
+C101375,Organic Search,110,1,292.08000000000004,Hibernating / Lost
+C101376,Paid Ads,133,1,499.34999999999997,At Risk
+C101377,Organic Search,18,3,1467.58,Loyal Regulars
+C101379,Email,198,3,1033.42,Champions
+C101386,Referral,1,2,628.58,Loyal Regulars
+C101388,Organic Search,72,2,287.78000000000003,Hibernating / Lost
+C101389,Organic Search,96,2,1230.24,At Risk
+C101390,Social,384,2,3614.12,At Risk
+C101391,Email,327,4,1609.78,Champions
+C101392,Email,72,2,1281.49,Loyal Regulars
+C101393,Organic Search,54,4,1952.07,Loyal Regulars
+C101394,Organic Search,544,1,392.34,At Risk
+C101396,Email,157,2,693.27,At Risk
+C101397,Organic Search,82,1,27.89,Hibernating / Lost
+C101398,Organic Search,116,3,1650.1,Champions
+C101399,Email,45,4,1077.3500000000001,Loyal Regulars
+C101400,Social,190,1,305.56,Hibernating / Lost
+C101402,Paid Ads,521,1,710.9499999999999,At Risk
+C101403,Paid Ads,99,3,2231.79,Champions
+C101404,Paid Ads,116,3,3613.87,Champions
+C101405,Paid Ads,423,1,530.77,At Risk
+C101407,Paid Ads,170,1,554.6300000000001,At Risk
+C101408,Paid Ads,38,4,2341.55,Loyal Regulars
+C101409,Referral,398,5,1945.12,Champions
+C101411,Organic Search,20,2,158.38,Loyal Regulars
+C101412,Paid Ads,6,3,887.32,Loyal Regulars
+C101414,Paid Ads,392,1,23.73,Hibernating / Lost
+C101417,Referral,225,4,3651.4600000000005,Champions
+C101418,Paid Ads,95,2,1755.04,At Risk
+C101419,Social,337,1,693.53,At Risk
+C101420,Organic Search,129,1,102.93,Hibernating / Lost
+C101421,Organic Search,68,2,648.3,At Risk
+C101422,Paid Ads,211,3,1080.13,Champions
+C101423,Organic Search,71,5,6167.12,Champions
+C101424,Organic Search,495,1,144.94,Hibernating / Lost
+C101426,Organic Search,47,2,2761.0400000000004,Loyal Regulars
+C101430,Paid Ads,100,2,296.19,At Risk
+C101431,Paid Ads,484,6,1571.23,Champions
+C101432,Referral,463,2,1756.66,At Risk
+C101433,Organic Search,387,1,301.37,Hibernating / Lost
+C101434,Paid Ads,168,3,1205.1100000000001,Champions
+C101436,Referral,176,3,1738.75,Champions
+C101438,Paid Ads,461,1,800.8,At Risk
+C101439,Organic Search,41,2,387.90999999999997,Loyal Regulars
+C101441,Organic Search,218,3,1143.46,Champions
+C101442,Email,20,2,799.6,Loyal Regulars
+C101443,Organic Search,431,1,150.27,Hibernating / Lost
+C101444,Email,84,4,1187.9,Champions
+C101445,Organic Search,592,1,801.6899999999999,At Risk
+C101448,Organic Search,281,1,520.12,At Risk
+C101449,Organic Search,233,9,4053.3,Champions
+C101450,Organic Search,222,1,334.83,Hibernating / Lost
+C101451,Referral,394,6,1314.838,Champions
+C101452,Organic Search,533,4,743.09,Champions
+C101454,Paid Ads,385,1,27.52,Hibernating / Lost
+C101455,Referral,597,2,1133.48,At Risk
+C101456,Paid Ads,9,3,2106.81,Loyal Regulars
+C101457,Paid Ads,16,4,3413.29,Loyal Regulars
+C101458,Social,163,5,3364.1800000000003,Champions
+C101459,Organic Search,369,2,598.4,At Risk
+C101460,Referral,7,3,1796.97,Loyal Regulars
+C101461,Organic Search,542,1,2279.3,At Risk
+C101462,Paid Ads,378,1,1615.4099999999999,At Risk
+C101463,Referral,51,10,8045.98,Champions
+C101464,Email,118,3,788.61,Champions
+C101466,Organic Search,45,3,684.5699999999999,Loyal Regulars
+C101467,Paid Ads,75,2,385.68,At Risk
+C101468,Paid Ads,187,1,1255.94,At Risk
+C101469,Paid Ads,539,1,326.37,Hibernating / Lost
+C101470,Paid Ads,138,2,2831.9100000000003,At Risk
+C101471,Paid Ads,228,1,593.47,At Risk
+C101472,Organic Search,250,4,8348.67,Champions
+C101473,Organic Search,393,2,1035.85,At Risk
+C101474,Paid Ads,23,3,2734.0499999999997,Loyal Regulars
+C101476,Referral,108,2,1815.74,At Risk
+C101477,Email,386,3,3543.96,Champions
+C101478,Organic Search,174,6,5512.68,Champions
+C101479,Email,105,3,3638.25,Champions
+C101481,Organic Search,127,2,904.2,At Risk
+C101482,Organic Search,276,1,66.81,Hibernating / Lost
+C101483,Organic Search,562,1,144.96,Hibernating / Lost
+C101484,Organic Search,226,5,4681.429999999999,Champions
+C101485,Referral,1,5,2454.98,Loyal Regulars
+C101486,Social,248,7,2857.12,Champions
+C101488,Email,380,3,2400.52,Champions
+C101489,Organic Search,410,1,3177.04,At Risk
+C101491,Referral,389,1,93.04,Hibernating / Lost
+C101492,Paid Ads,531,4,2342.23,Champions
+C101493,Organic Search,204,3,2204.7099999999996,Champions
+C101494,Paid Ads,392,2,822.51,At Risk
+C101495,Social,125,1,2339.31,At Risk
+C101496,Organic Search,367,1,133.41,Hibernating / Lost
+C101497,Organic Search,19,3,1189.21,Loyal Regulars
+C101498,Organic Search,341,3,794.74,Champions
+C101499,Paid Ads,62,2,1565.265,Loyal Regulars
+C101500,Paid Ads,247,3,4487.98,Champions
+C101501,Referral,556,1,740.52,At Risk
+C101502,Referral,412,3,3193.0600000000004,Champions
+C101504,Referral,368,2,2001.7700000000002,At Risk
+C101506,Paid Ads,68,3,338.6,Loyal Regulars
+C101507,Organic Search,428,1,96.57,Hibernating / Lost
+C101509,Social,10,6,2937.7,Loyal Regulars
+C101510,Email,3,3,1703.6299999999999,Loyal Regulars
+C101511,Social,255,2,897.01,At Risk
+C101512,Paid Ads,107,3,797.56,Champions
+C101513,Paid Ads,351,2,841.5899999999999,At Risk
+C101514,Paid Ads,382,5,4211.41,Champions
+C101515,Organic Search,58,3,1424.01,Loyal Regulars
+C101516,Organic Search,408,2,480.93000000000006,At Risk
+C101518,Organic Search,184,6,4479.26,Champions
+C101520,Organic Search,8,3,1109.76,Loyal Regulars
+C101521,Organic Search,235,3,1265.3400000000001,Champions
+C101522,Referral,96,2,1209.1200000000001,At Risk
+C101523,Organic Search,592,1,1074.6,At Risk
+C101525,Email,402,4,2103.46,Champions
+C101528,Email,163,2,2668.78,At Risk
+C101529,Referral,38,3,2689.4199999999996,Loyal Regulars
+C101530,Referral,551,1,527.0,At Risk
+C101531,Email,721,1,263.19,Hibernating / Lost
+C101532,Paid Ads,116,2,223.19,Hibernating / Lost
+C101533,Paid Ads,108,3,578.25,Champions
+C101535,Social,33,2,1793.55,Loyal Regulars
+C101536,Paid Ads,67,1,1041.6100000000001,At Risk
+C101537,Email,278,2,2485.21,At Risk
+C101538,Paid Ads,95,1,317.56,Hibernating / Lost
+C101539,Referral,170,3,3111.91,Champions
+C101541,Organic Search,369,2,1056.95,At Risk
+C101542,Organic Search,670,1,666.8399999999999,At Risk
+C101545,Paid Ads,374,1,396.53000000000003,At Risk
+C101548,Paid Ads,453,1,82.03999999999999,Hibernating / Lost
+C101549,Paid Ads,612,1,1930.57,At Risk
+C101550,Email,481,1,274.46999999999997,Hibernating / Lost
+C101552,Email,46,4,3991.3300000000004,Loyal Regulars
+C101553,Referral,98,5,1591.13,Champions
+C101554,Email,11,7,6645.03,Loyal Regulars
+C101555,Paid Ads,22,5,4607.25,Loyal Regulars
+C101556,Email,16,1,22.69,Hibernating / Lost
+C101558,Organic Search,19,1,246.67,Hibernating / Lost
+C101561,Email,347,2,1403.2,At Risk
+C101563,Paid Ads,49,1,408.4,Hibernating / Lost
+C101564,Organic Search,296,3,3443.9199999999996,Champions
+C101565,Email,291,4,2771.74,Champions
+C101566,Referral,69,2,1085.13,Loyal Regulars
+C101567,Paid Ads,307,2,962.89,At Risk
+C101568,Paid Ads,107,1,225.98,Hibernating / Lost
+C101569,Paid Ads,53,1,152.57,Hibernating / Lost
+C101571,Referral,5,3,3977.25,Loyal Regulars
+C101572,Email,123,2,720.9799999999999,At Risk
+C101573,Paid Ads,51,1,580.5999999999999,At Risk
+C101574,Paid Ads,576,1,338.48,Hibernating / Lost
+C101575,Organic Search,373,2,3232.25,At Risk
+C101576,Organic Search,308,1,685.64,At Risk
+C101577,Organic Search,159,2,1580.29,At Risk
+C101578,Paid Ads,616,1,696.1500000000001,At Risk
+C101580,Paid Ads,68,3,4498.95,Champions
+C101581,Organic Search,373,3,880.16,Champions
+C101583,Paid Ads,402,1,415.02,At Risk
+C101585,Paid Ads,422,1,99.63,Hibernating / Lost
+C101586,Referral,217,1,221.15999999999997,Hibernating / Lost
+C101587,Referral,540,2,780.49,At Risk
+C101588,Organic Search,51,1,846.84,At Risk
+C101589,Email,652,1,431.59000000000003,At Risk
+C101591,Paid Ads,430,3,465.97,At Risk
+C101592,Organic Search,393,1,120.67999999999999,Hibernating / Lost
+C101593,Social,582,2,298.54999999999995,At Risk
+C101594,Referral,290,1,11.97,Hibernating / Lost
+C101598,Referral,56,3,1380.65,Loyal Regulars
+C101599,Paid Ads,142,3,1925.06,Champions
+C101600,Organic Search,502,3,4525.37,Champions
+C101603,Referral,64,3,1221.56,Loyal Regulars
+C101604,Organic Search,484,1,804.96,At Risk
+C101605,Organic Search,63,3,3479.5099999999998,Loyal Regulars
+C101606,Social,663,1,968.21,At Risk
+C101607,Social,378,2,369.96999999999997,At Risk
+C101608,Paid Ads,42,1,401.29,Hibernating / Lost
+C101609,Email,424,2,1122.35,At Risk
+C101611,Paid Ads,474,1,1694.1499999999999,At Risk
+C101613,Organic Search,162,3,2374.5,Champions
+C101614,Organic Search,524,3,1377.8,Champions
+C101615,Referral,157,4,3967.88,Champions
+C101617,Organic Search,289,1,202.69,Hibernating / Lost
+C101622,Paid Ads,165,1,14.1,Hibernating / Lost
+C101623,Email,236,2,598.67,At Risk
+C101626,Social,350,3,554.23,At Risk
+C101627,Social,74,2,441.87,At Risk
+C101629,Email,535,3,4479.25,Champions
+C101630,Email,163,1,347.8,Hibernating / Lost
+C101631,Email,194,1,315.16,Hibernating / Lost
+C101632,Email,230,5,2423.47,Champions
+C101634,Social,289,2,2162.13,At Risk
+C101636,Referral,253,4,1274.33,Champions
+C101638,Organic Search,418,2,1584.02,At Risk
+C101639,Paid Ads,370,1,115.64,Hibernating / Lost
+C101640,Paid Ads,101,3,3460.98,Champions
+C101643,Organic Search,384,1,378.78,At Risk
+C101644,Paid Ads,24,2,681.1700000000001,Loyal Regulars
+C101647,Organic Search,62,3,615.99,Loyal Regulars
+C101648,Organic Search,129,1,709.2634999999999,At Risk
+C101649,Organic Search,118,3,1780.76,Champions
+C101650,Paid Ads,398,3,978.16,Champions
+C101652,Email,163,5,2150.1,Champions
+C101653,Social,51,3,2116.62,Loyal Regulars
+C101654,Organic Search,368,5,3848.66,Champions
+C101655,Email,303,7,5591.74,Champions
+C101656,Organic Search,164,2,606.26,At Risk
+C101657,Organic Search,128,3,805.63,Champions
+C101659,Organic Search,389,2,1104.6200000000001,At Risk
+C101660,Email,358,1,275.56,Hibernating / Lost
+C101661,Email,51,2,3441.88,Loyal Regulars
+C101662,Email,600,1,234.0,Hibernating / Lost
+C101663,Paid Ads,342,2,1082.6200000000001,At Risk
+C101664,Email,424,1,191.99,Hibernating / Lost
+C101665,Paid Ads,420,1,66.18,Hibernating / Lost
+C101667,Organic Search,215,1,38.72,Hibernating / Lost
+C101668,Email,200,1,658.9200000000001,At Risk
+C101669,Social,166,4,1268.78,Champions
+C101670,Organic Search,169,1,325.05999999999995,Hibernating / Lost
+C101671,Paid Ads,3,2,816.57,Loyal Regulars
+C101673,Referral,201,1,1408.3,At Risk
+C101674,Paid Ads,262,2,321.34000000000003,At Risk
+C101676,Email,367,7,4439.17,Champions
+C101677,Referral,421,1,490.42,At Risk
+C101679,Social,115,2,2420.4700000000003,At Risk
+C101680,Organic Search,73,2,435.12,At Risk
+C101681,Referral,419,2,435.338,At Risk
+C101684,Organic Search,221,1,762.14,At Risk
+C101685,Paid Ads,411,1,1441.97,At Risk
+C101687,Organic Search,261,2,481.94,At Risk
+C101689,Paid Ads,170,4,1224.35,Champions
+C101690,Referral,164,1,553.7800000000001,At Risk
+C101691,Referral,73,1,333.29,Hibernating / Lost
+C101693,Organic Search,453,2,1114.52,At Risk
+C101695,Social,240,1,239.96,Hibernating / Lost
+C101696,Organic Search,331,2,1320.53,At Risk
+C101700,Paid Ads,537,1,322.31,Hibernating / Lost
+C101701,Email,293,2,1408.96,At Risk
+C101702,Paid Ads,298,1,1173.97,At Risk
+C101704,Organic Search,118,3,2009.38,Champions
+C101705,Organic Search,42,1,785.34,At Risk
+C101706,Email,33,1,196.45999999999998,Hibernating / Lost
+C101707,Organic Search,31,2,937.08,Loyal Regulars
+C101708,Email,277,5,2553.37,Champions
+C101710,Referral,195,1,154.76,Hibernating / Lost
+C101711,Referral,189,1,43.26,Hibernating / Lost
+C101712,Paid Ads,97,1,104.73,Hibernating / Lost
+C101713,Referral,55,6,4565.76,Champions
+C101714,Organic Search,352,1,382.16999999999996,At Risk
+C101715,Paid Ads,208,1,222.2,Hibernating / Lost
+C101716,Organic Search,142,4,2600.94,Champions
+C101717,Referral,138,1,14.12,Hibernating / Lost
+C101718,Referral,34,7,3653.6400000000003,Loyal Regulars
+C101719,Social,376,2,222.56,Hibernating / Lost
+C101720,Referral,32,8,5468.2699999999995,Champions
+C101721,Social,195,1,127.87,Hibernating / Lost
+C101722,Organic Search,43,4,2066.96,Loyal Regulars
+C101724,Paid Ads,420,1,1110.05,At Risk
+C101725,Paid Ads,172,3,2435.7799999999997,Champions
+C101727,Paid Ads,241,1,129.32,Hibernating / Lost
+C101728,Organic Search,437,1,2476.24,At Risk
+C101729,Organic Search,377,7,3172.49,Champions
+C101730,Organic Search,11,6,1887.3000000000002,Loyal Regulars
+C101731,Paid Ads,25,3,345.69,Loyal Regulars
+C101732,Referral,51,3,2601.22,Loyal Regulars
+C101734,Paid Ads,70,1,171.4,Hibernating / Lost
+C101735,Paid Ads,210,3,1316.49,Champions
+C101736,Paid Ads,362,1,121.82,Hibernating / Lost
+C101737,Organic Search,169,4,3712.0599999999995,Champions
+C101738,Referral,440,8,2948.7599999999998,Champions
+C101739,Organic Search,339,2,425.03,At Risk
+C101740,Email,369,1,1004.2,At Risk
+C101743,Referral,647,1,128.118,Hibernating / Lost
+C101744,Organic Search,481,3,1451.8,Champions
+C101745,Referral,8,4,3905.58,Loyal Regulars
+C101746,Email,145,1,1939.7,At Risk
+C101747,Referral,52,2,751.46,Loyal Regulars
+C101749,Referral,50,2,2679.32,Loyal Regulars
+C101754,Paid Ads,246,3,956.1700000000001,Champions
+C101756,Paid Ads,466,2,323.0,At Risk
+C101758,Organic Search,32,1,319.68,Hibernating / Lost
+C101759,Organic Search,383,1,1025.99,At Risk
+C101760,Referral,374,1,292.25,Hibernating / Lost
+C101761,Paid Ads,404,1,1211.79,At Risk
+C101762,Paid Ads,522,3,1358.04,Champions
+C101763,Organic Search,40,4,1962.9199999999998,Loyal Regulars
+C101764,Paid Ads,2,4,1944.9700000000003,Loyal Regulars
+C101765,Referral,28,4,250.19,Loyal Regulars
+C101766,Referral,7,6,6176.58,Loyal Regulars
+C101767,Organic Search,451,1,159.38,Hibernating / Lost
+C101768,Paid Ads,511,1,141.64,Hibernating / Lost
+C101769,Paid Ads,615,1,1276.53,At Risk
+C101770,Email,370,2,1249.8500000000001,At Risk
+C101771,Paid Ads,301,1,388.67600000000004,At Risk
+C101772,Paid Ads,515,1,86.13,Hibernating / Lost
+C101773,Paid Ads,210,3,4058.98,Champions
+C101776,Paid Ads,524,2,3031.62,At Risk
+C101777,Referral,582,1,761.22,At Risk
+C101778,Email,155,4,4065.607,Champions
+C101779,Paid Ads,157,1,81.22,Hibernating / Lost
+C101780,Referral,619,1,862.38,At Risk
+C101782,Organic Search,665,1,1040.21,At Risk
+C101783,Paid Ads,133,1,275.71999999999997,Hibernating / Lost
+C101784,Organic Search,98,7,3188.48,Champions
+C101785,Email,165,2,333.2,At Risk
+C101786,Organic Search,162,4,2584.52,Champions
+C101787,Email,605,3,3399.75,Champions
+C101790,Social,203,1,1835.0199999999998,At Risk
+C101791,Paid Ads,43,1,510.68,At Risk
+C101794,Referral,403,1,782.08,At Risk
+C101795,Organic Search,228,6,3628.2200000000003,Champions
+C101796,Referral,104,1,1993.6399999999999,At Risk
+C101797,Organic Search,405,3,2441.34,Champions
+C101799,Referral,202,4,2762.13,Champions
