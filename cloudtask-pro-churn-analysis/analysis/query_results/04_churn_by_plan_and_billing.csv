@@ -1,0 +1,9 @@
+plan,billing_cycle,churn_rate_pct
+Business,Annual,27.4
+Business,Monthly,52.87
+Enterprise,Annual,22.22
+Enterprise,Monthly,21.88
+Professional,Annual,35.14
+Professional,Monthly,57.58
+Starter,Annual,60.24
+Starter,Monthly,76.87

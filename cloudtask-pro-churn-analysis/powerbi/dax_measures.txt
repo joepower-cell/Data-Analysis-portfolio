@@ -1,0 +1,124 @@
+CloudTask Pro - DAX measure definitions
+========================================
+Paste into a new measure table in Power BI ("_Measures"). Written against
+the model described in data_model.md. Comments use // per DAX convention.
+
+---- Customer counts -------------------------------------------------------
+
+Total Customers Ever =
+COUNTROWS(fact_subscriptions)
+
+Active Customers =
+CALCULATE(COUNTROWS(fact_subscriptions), fact_subscriptions[churned] = "No")
+
+Churned Customers =
+CALCULATE(COUNTROWS(fact_subscriptions), fact_subscriptions[churned] = "Yes")
+
+Overall Churn Rate % =
+DIVIDE([Churned Customers], [Total Customers Ever]) * 100
+
+---- Monthly churn trend (from fact_monthly_revenue) -----------------------
+
+Monthly Churn Rate % =
+AVERAGE(fact_monthly_revenue[monthly_churn_rate_pct])
+// AVERAGE not SUM: at the month grain there's one row per month, so
+// AVERAGE and SUM agree, but AVERAGE stays correct if this ever gets used
+// in a visual that groups multiple months together (e.g. a yearly card).
+
+Churn Rate 3mo Trailing Avg =
+AVERAGEX(
+    DATESINPERIOD(dim_date[date], MAX(dim_date[date]), -3, MONTH),
+    CALCULATE([Monthly Churn Rate %])
+)
+
+---- Revenue ----------------------------------------------------------------
+
+Total MRR =
+SUM(fact_monthly_revenue[total_mrr])
+
+New MRR =
+CALCULATE(
+    SUM(fact_subscriptions[monthly_revenue]),
+    USERELATIONSHIP(fact_subscriptions[signup_month], dim_date[month_key])
+)
+
+Churned MRR =
+CALCULATE(
+    SUM(fact_subscriptions[monthly_revenue]),
+    USERELATIONSHIP(fact_subscriptions[churn_month], dim_date[month_key]),
+    fact_subscriptions[churned] = "Yes"
+)
+
+Net New MRR =
+[New MRR] - [Churned MRR]
+// This is the "new MRR minus churned MRR" figure the brief asks for
+// directly. It is a dollar delta, not the standard NRR % below.
+
+Net Revenue Retention % =
+VAR PrevMonthMRR =
+    CALCULATE([Total MRR], DATEADD(dim_date[date], -1, MONTH))
+VAR RetainedMRR = [Total MRR] - [New MRR]
+RETURN
+    DIVIDE(RetainedMRR, PrevMonthMRR) * 100
+// Isolates the existing customer base: (this month's MRR minus this
+// month's new MRR) / last month's MRR. See sql/07_revenue_retention.sql
+// for the same logic in SQL and why this differs from the brief's
+// dollar-delta definition above.
+
+---- Unit economics ----------------------------------------------------------
+
+Avg Lifespan Months =
+AVERAGE(fact_subscriptions[lifespan_months])
+// lifespan_months is a Power Query calculated column: months between
+// signup_date and (churn_date if churned, else the report snapshot date).
+// Respects filter context, so this correctly returns a plan-level average
+// when sliced by dim_plan[plan].
+
+Avg CLV =
+AVERAGE(fact_subscriptions[monthly_revenue]) * [Avg Lifespan Months]
+
+Blended CAC =
+DIVIDE(
+    SUMX(fact_monthly_revenue, fact_monthly_revenue[new_customers] * fact_monthly_revenue[customer_acquisition_cost]),
+    SUM(fact_monthly_revenue[new_customers])
+)
+// Weighted by customers actually acquired each month. The source data only
+// has one company-wide CAC per month, not one per plan, so this is a
+// single blended value applied across every plan slice -- see the README
+// for why that's a real data limitation, not an oversight.
+
+CLV to CAC Ratio =
+DIVIDE([Avg CLV], [Blended CAC])
+
+---- At-risk indicator --------------------------------------------------------
+
+Is At Risk =
+IF(
+    fact_subscriptions[feature_usage_pct] < 30 && fact_subscriptions[nps_score] <= 6,
+    1, 0
+)
+// Calculated column, not a measure -- needed at row level for the
+// scatter-plot color and the at-risk customer table on the At-Risk page.
+
+At Risk Customers (Active) =
+CALCULATE(
+    COUNTROWS(fact_subscriptions),
+    fact_subscriptions[churned] = "No",
+    fact_subscriptions[Is At Risk] = 1
+)
+
+At Risk MRR (Active) =
+CALCULATE(
+    SUM(fact_subscriptions[monthly_revenue]),
+    fact_subscriptions[churned] = "No",
+    fact_subscriptions[Is At Risk] = 1
+)
+
+At Risk % of Active Base =
+DIVIDE([At Risk Customers (Active)], [Active Customers]) * 100
+
+Avg Feature Usage % =
+AVERAGE(fact_subscriptions[feature_usage_pct])
+
+Avg NPS Score =
+AVERAGE(fact_subscriptions[nps_score])

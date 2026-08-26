@@ -1,0 +1,5 @@
+plan,customers,churned,churn_rate_pct
+Starter,217,153,70.51
+Professional,173,83,47.98
+Business,160,66,41.25
+Enterprise,50,11,22.0

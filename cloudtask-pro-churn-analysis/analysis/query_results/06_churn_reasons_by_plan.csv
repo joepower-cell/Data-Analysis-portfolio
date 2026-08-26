@@ -1,0 +1,28 @@
+plan,churn_reason,churned_customers
+Business,Budget Cuts,10
+Business,Company Closed,8
+Business,Missing Features,12
+Business,No Longer Needed,11
+Business,Poor Support,11
+Business,Price Too High,7
+Business,Switched Competitor,7
+Enterprise,Company Closed,3
+Enterprise,Missing Features,1
+Enterprise,No Longer Needed,3
+Enterprise,Poor Support,1
+Enterprise,Price Too High,1
+Enterprise,Switched Competitor,2
+Professional,Budget Cuts,14
+Professional,Company Closed,13
+Professional,Missing Features,12
+Professional,No Longer Needed,9
+Professional,Poor Support,11
+Professional,Price Too High,14
+Professional,Switched Competitor,10
+Starter,Budget Cuts,29
+Starter,Company Closed,24
+Starter,Missing Features,15
+Starter,No Longer Needed,18
+Starter,Poor Support,19
+Starter,Price Too High,29
+Starter,Switched Competitor,19
