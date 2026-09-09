@@ -25,3 +25,15 @@ companion workbook alongside the SQL.
 **Techniques:** SQL data auditing, cohort-style churn trending, segment analysis, CLV/CAC unit
 economics, net revenue retention, at-risk customer scoring.
 **Tools:** SQL (SQLite), Power BI (data model + DAX), Excel.
+
+### [BrightCart — E-Commerce Profitability Analysis](ecommerce-profitability-analysis/)
+
+A true profitability analysis for a fictional D2C retailer: which product categories and sales
+channels are actually profitable once shipping, returns, platform fees, and discounts are all
+netted out, how much revenue returns cost the business, which marketing platforms deliver a real
+(profit-adjusted) return on ad spend, and how to size an actual budget cut against real numbers
+rather than an even percentage haircut.
+
+**Techniques:** SQL data auditing & cost reconciliation, category/channel profitability
+decomposition, returns-impact analysis, marketing ROAS/CPA/CPC analysis, budget-scenario modeling.
+**Tools:** SQL (SQLite), Pandas, Excel (live-formula workbook with a one-page executive summary).
