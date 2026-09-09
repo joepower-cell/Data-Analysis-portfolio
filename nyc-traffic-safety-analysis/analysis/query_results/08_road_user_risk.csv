@@ -1,0 +1,4 @@
+role,injured,killed,pct_of_injured,pct_of_killed,fatal_when_involved_pct
+Pedestrian,10994,314,19.9,40.3,2.78
+Cyclist,6713,155,12.1,19.9,2.26
+Motorist,37553,310,68.0,39.8,0.82

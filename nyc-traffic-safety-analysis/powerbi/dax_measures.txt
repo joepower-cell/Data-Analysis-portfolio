@@ -1,0 +1,90 @@
+NYC Traffic Safety Analysis - DAX measure definitions
+=======================================================
+Paste into a new measure table ("_Measures"). Written against the model
+described in data_model.md. Comments use // per DAX convention.
+
+---- Volume ------------------------------------------------------------------
+
+Total Crashes =
+COUNTROWS(fact_crashes)
+
+Total Injured =
+SUM(fact_crashes[NUMBER OF PERSONS INJURED])
+
+Total Killed =
+SUM(fact_crashes[NUMBER OF PERSONS KILLED])
+
+Fatalities per 1000 Crashes =
+DIVIDE([Total Killed], [Total Crashes]) * 1000
+
+YoY Crash Change % =
+VAR PriorYear = CALCULATE([Total Crashes], SAMEPERIODLASTYEAR(dim_date[Date]))
+RETURN DIVIDE([Total Crashes] - PriorYear, PriorYear) * 100
+
+---- Contributing factors ------------------------------------------------------
+
+Crashes with Known Cause =
+CALCULATE([Total Crashes], fact_crashes[contributing_factor_1] <> "Unspecified")
+
+Pct Unspecified Cause =
+DIVIDE([Total Crashes] - [Crashes with Known Cause], [Total Crashes]) * 100
+// Worth surfacing as its own KPI card: a large share of crashes in this
+// (and the real NYC) dataset have no recorded cause at all, which caps how
+// much the "top causes" analysis can explain on its own.
+
+Speeding Crashes =
+CALCULATE([Total Crashes], fact_crashes[contributing_factor_1] = "Unsafe Speed")
+
+Pct Speeding =
+DIVIDE([Speeding Crashes], [Total Crashes]) * 100
+// Sliced by dim_borough[borough] via the report page filter, this is the
+// exact Queens-vs-Manhattan comparison the brief calls out.
+
+---- Road user risk (uses dim_road_user built via Power Query unpivot) ---------
+
+Injured by Road User =
+CALCULATE(
+    SUM(fact_crashes[value]),
+    dim_road_user[outcome] = "Injured"
+)
+// "value" here is the unpivoted count column produced by the Power Query
+// Unpivot Columns step described in power_query_steps.md.
+
+Killed by Road User =
+CALCULATE(
+    SUM(fact_crashes[value]),
+    dim_road_user[outcome] = "Killed"
+)
+
+Pct of All Injured =
+DIVIDE([Injured by Road User], CALCULATE([Injured by Road User], ALL(dim_road_user[road_user])))
+* 100
+
+Pct of All Killed =
+DIVIDE([Killed by Road User], CALCULATE([Killed by Road User], ALL(dim_road_user[road_user])))
+* 100
+
+Fatality Rate When Involved % =
+DIVIDE([Killed by Road User], [Killed by Road User] + [Injured by Road User]) * 100
+// The headline "who's most at risk" number: killed / (killed + injured),
+// by road user type. A group whose Fatality Rate When Involved is much
+// higher than its Pct of All Injured is disproportionately likely to die,
+// not just get hurt, once something goes wrong -- that's the finding this
+// measure is built to surface directly on the "Who's at Risk" page.
+
+---- Vehicle types --------------------------------------------------------------
+
+Fatal Crashes per 1000 by Vehicle =
+VAR FatalCrashes = CALCULATE([Total Crashes], fact_crashes[NUMBER OF PERSONS KILLED] > 0)
+RETURN DIVIDE(FatalCrashes, [Total Crashes]) * 1000
+// Sliced by fact_crashes[vehicle_type_1_clean] (the Power-Query-standardized
+// column, never the raw VEHICLE TYPE CODE 1 -- slicing on the raw column
+// would wrongly split "Sedan" across 4 separate casing variants).
+
+---- Geography ---------------------------------------------------------------
+
+Pct Crashes with Unassigned Borough =
+DIVIDE(
+    CALCULATE([Total Crashes], ISBLANK(fact_crashes[borough])),
+    [Total Crashes]
+) * 100

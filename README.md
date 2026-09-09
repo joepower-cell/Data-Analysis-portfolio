@@ -37,3 +37,16 @@ rather than an even percentage haircut.
 **Techniques:** SQL data auditing & cost reconciliation, category/channel profitability
 decomposition, returns-impact analysis, marketing ROAS/CPA/CPC analysis, budget-scenario modeling.
 **Tools:** SQL (SQLite), Pandas, Excel (live-formula workbook with a one-page executive summary).
+
+### [NYC Traffic Safety Analysis](nyc-traffic-safety-analysis/)
+
+A ~155,000-row, 7-year recreation of NYC's real open "Motor Vehicle Collisions" dataset (same
+schema, same known data-quality quirks, same real-world COVID-era pattern of falling crash counts
+paired with a spike in fatality rate per crash), analyzed to answer a mayor's-office brief: is the
+trend improving, which boroughs/streets are most dangerous, what causes crashes and how that varies
+by borough, and — the key finding — how much more likely pedestrians and cyclists are to die,
+not just get hurt, once involved in a crash.
+
+**Techniques:** SQL data auditing at scale, date/time parsing, text standardization, geographic
+and temporal trend analysis, road-user risk decomposition, vehicle-severity analysis.
+**Tools:** SQL (SQLite), Power BI (data model + DAX), Excel (scoped live-formula workbook + SQL-sourced reference tables).
