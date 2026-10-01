@@ -1,7 +1,9 @@
-# Data Analysis Portfolio - Claude Code Assisted
+# Data Analysis Portfolio
 
 A collection of data analysis projects, each self-contained in its own directory with its own README,
 data, code, and results.
+
+Claude Code assisted. I defined the questions, reviewed the code and validated the results.
 
 ## Projects
 
